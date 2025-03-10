@@ -1,2 +1,2 @@
 # py-GitTest
-Test Lambda to GitHub Integration
+Lambda to GitHub Integration Test
